@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Irankunda</h1>
 
-<img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<img width="500px" height="300px" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 <br>
 <h2 align="center">A Passionate Frontend Developer from Rwanda</h2>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, node and Typescript**
 
-- 📫 How to reach me [Email](irankundadavid64@gmail.com)
+- 📫 How to reach me irankundadavid64@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
