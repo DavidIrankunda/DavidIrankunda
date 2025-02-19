@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/DavidIrankunda/)
 
-- 💬 Ask me about **React, node and Typescript**
+- 💬 Ask me about **React, Node and Typescript**
 
 - 📫 How to reach me irankundadavid64@gmail.com
 
