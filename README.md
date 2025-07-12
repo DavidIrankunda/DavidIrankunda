@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/DavidIrankunda/)
+- 👨‍💻 All of my projects are available at [Here](https://irankundadavid.site/)
 
 - 💬 Ask me about **React, Node and Typescript**
 
