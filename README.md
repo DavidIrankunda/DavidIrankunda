@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Node and Typescript**
 
-- 📫 How to reach me irankundadavid64@gmail.com
+- 📫 How to reach me david@izubagen.rw
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
